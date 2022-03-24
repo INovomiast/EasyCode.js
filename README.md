@@ -1,1 +1,1 @@
-"# EasyCode.js" 
+# Easyc.js
