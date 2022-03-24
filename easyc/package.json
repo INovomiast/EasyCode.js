@@ -1,0 +1,8 @@
+{
+    "name": "easyc.js",
+    "version": "1.0.0",
+    "author": {"name": "INovomiast"},
+    "repository": {"url": "https://github.com/INovomiast/EasyCode.js"},
+    "type": "module",
+    "license": "GNU"
+}

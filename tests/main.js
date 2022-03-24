@@ -1,5 +1,4 @@
-import "../easycode.js";
-
+import {easyc} from '../easyc/easycode';
 
 const test_element = easyc.element.id('button');
 
